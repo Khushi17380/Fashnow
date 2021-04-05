@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800990028626",
+    "firebase_url": "https://fashnow-492bf.firebaseio.com",
+    "project_id": "fashnow-492bf",
+    "storage_bucket": "fashnow-492bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800990028626:android:8e69579bc3494a1480d08b",
+        "android_client_info": {
+          "package_name": "com.example.fashnow_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800990028626-kob4oj4n29r6nmdm42cjngkr5spd6hqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashnow_",
+            "certificate_hash": "3f927e8c7a5df3eda455eec924fff1d4091e2e83"
+          }
+        },
+        {
+          "client_id": "800990028626-d53to0in6n6pv49opg08hu5v72f3vkv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx2g12sEygJd9QAJjmLCswnt8ZGyGm7Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800990028626-d53to0in6n6pv49opg08hu5v72f3vkv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
